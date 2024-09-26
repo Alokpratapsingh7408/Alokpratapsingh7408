@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokpratapsingh7408&label=Profile%20views&color=0e75b6&style=flat" alt="alokpratapsingh7408" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **Alokpratap8738@gmail.com**
 
