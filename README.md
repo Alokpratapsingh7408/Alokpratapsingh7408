@@ -1,5 +1,5 @@
 👋 Hi, I’m Alok Singh
-Full-Stack (MERN) | SaaS | Dashboard | Marketplace Developer
+Full-Stack | SaaS | Dashboard | Marketplace Developer | AI development 
 5+ Years Experience 
 I’m a results-driven Full Stack Developer specializing in scalable SaaS platforms, analytics dashboards, real-time systems, and enterprise web applications.
 I focus on building clean architecture, high-performance APIs, and production-ready React applications for startups and growing businesses.
@@ -190,4 +190,4 @@ ________________
 
 
 📬 Let’s Connect
-* Email: aloksingh22031999@gmail.com
+* Email: alokpratap8738@gmaail.com
